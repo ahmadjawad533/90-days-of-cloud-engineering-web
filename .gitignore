@@ -25,6 +25,13 @@ share/python-wheels/
 .installed.cfg
 *.egg
 
+# Node.js & Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+.npm
+
 # Virtual environments
 .env
 .venv

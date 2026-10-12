@@ -13,6 +13,17 @@
 
 A structured, self-paced, 90-day roadmap that teaches you cloud engineering from scratch. By the end you will be able to **design, deploy, secure, monitor and tear down** a production-style application on the cloud using Infrastructure as Code and CI/CD — and you will have a **portfolio project** to show employers.
 
+### 🌐 Interactive Web Portal
+You can learn directly from this repository or use the **built-in web portal** featuring interactive progress tracking, instant search, copyable CLI cheatsheets, filterable glossary, and flashcard interview prep:
+
+```bash
+# Launch the interactive web portal locally:
+cd frontend
+npm install
+npm run dev
+# Visit http://localhost:5173
+```
+
 **Primary cloud:** AWS (with Azure and GCP equivalents noted on every cloud-specific day).
 
 ## 👋 Who Is This For?
