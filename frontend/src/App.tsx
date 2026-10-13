@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import confetti from 'canvas-confetti';
+import { Analytics } from '@vercel/analytics/react';
 import { CurriculumData, ViewMode } from './types';
 import curriculumDataJson from './data/curriculum.json';
 import { Navbar } from './components/Navbar';
@@ -199,6 +200,9 @@ export function App() {
           setCurrentView('cheatsheets');
         }}
       />
+      
+      {/* Vercel Analytics */}
+      <Analytics />
     </div>
   );
 }
