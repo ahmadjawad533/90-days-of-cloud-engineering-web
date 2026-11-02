@@ -219,7 +219,7 @@ echo "Cleanup completed successfully."
 | Action Types | SG: Allow only / NACL: Allow & Deny | NSG: Allow & Deny | GCP: Allow & Deny |
 
 - 📖 [Azure Network Security Groups (NSGs)](https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview)
-- 📖 [Google Cloud VPC Firewall Rules](https://cloud.google.com/firewall/docs/firewalls-overview)
+- 📖 [Google Cloud VPC Firewall Rules](https://docs.cloud.google.com/firewall/docs/firewalls-overview)
 
 ## Stretch Goal
 Simulate a specific IP address block (blacklist). Because Security Groups only support `ALLOW` rules, configure a specific `DENY` rule in your Network ACL at Rule 50 (e.g., deny IP `203.0.113.4/32` on port 80) while Rule 100 allows all other IPs. Observe why NACLs are the correct tool for blacklisting malicious IP ranges before traffic ever reaches an EC2 instance.

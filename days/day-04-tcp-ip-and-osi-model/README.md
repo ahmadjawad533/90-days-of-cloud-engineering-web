@@ -9,7 +9,7 @@ Master the OSI 7-layer and TCP/IP 4-layer networking models, understand data enc
 ⏱️ Approximately 75 minutes
 
 ## Learn
-- 📖 [What is the OSI Model? - Cloudflare](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/) — Clear visual guide to the 7 layers of the OSI model and data encapsulation.
+- 📖 [What is the OSI Model? - Cloudflare](https://en.wikipedia.org/wiki/OSI_model) — Clear visual guide to the 7 layers of the OSI model and data encapsulation.
 - 📖 [TCP (Transmission Control Protocol) - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Glossary/TCP) — Explanation of reliable stream delivery, connections, and the TCP 3-way handshake.
 
 ## Do

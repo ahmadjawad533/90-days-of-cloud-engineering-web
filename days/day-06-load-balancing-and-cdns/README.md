@@ -9,7 +9,7 @@ Understand how modern cloud architectures achieve high availability, fault toler
 ⏱️ Approximately 75 minutes
 
 ## Learn
-- 📖 [What is a CDN? - Cloudflare](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/) — How Content Delivery Networks work, edge servers, caching, and latency reduction.
+- 📖 [What is a CDN? - Cloudflare](https://en.wikipedia.org/wiki/Content_delivery_network) — How Content Delivery Networks work, edge servers, caching, and latency reduction.
 - 📖 [Elastic Load Balancing - AWS](https://aws.amazon.com/elasticloadbalancing/) — Architectural overview of Layer 4 vs Layer 7 load balancers, health checks, and traffic distribution.
 
 ## Do

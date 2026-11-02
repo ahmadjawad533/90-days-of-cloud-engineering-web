@@ -9,8 +9,8 @@ Master the Linux Filesystem Hierarchy Standard (FHS), navigate directory trees e
 ⏱️ Approximately 75 minutes
 
 ## Learn
-- 📖 [Linux Journey: Command Line Basics & Navigation](https://linuxjourney.com/lesson/the-shell) — Practical overview of directories, paths, `pwd`, `cd`, and `ls`.
-- 📖 [Linux Journey: Filesystem Hierarchy](https://linuxjourney.com/lesson/filesystem-hierarchy) — Clear explanations of `/etc`, `/var`, `/bin`, `/usr`, `/home`, and other core directories.
+- 📖 [Linux Journey: Command Line Basics & Navigation](https://labex.io/lesson/the-shell) — Practical overview of directories, paths, `pwd`, `cd`, and `ls`.
+- 📖 [Linux Journey: Filesystem Hierarchy](https://labex.io/lesson/filesystem-hierarchy) — Clear explanations of `/etc`, `/var`, `/bin`, `/usr`, `/home`, and other core directories.
 - 📖 [Ubuntu Tutorials: Navigating the File System](https://ubuntu.com/tutorials/command-line-for-beginners#3-navigating-the-file-system) — Official Ubuntu walkthrough of filesystem navigation and directory manipulation.
 
 ## Do

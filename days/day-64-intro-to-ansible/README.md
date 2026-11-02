@@ -8,8 +8,8 @@ Understand agentless configuration management, install Ansible, configure an inv
 ⏱️ Approximately 75 minutes
 
 ## Learn
-- 📖 [Ansible Getting Started Guide](https://docs.ansible.com/ansible/latest/getting_started/) — Core concepts: control nodes, managed nodes, inventory, tasks, modules, and playbooks.
-- 📖 [Ansible Playbook Guide](https://docs.ansible.com/ansible/latest/playbook_guide/) — Writing declarative YAML playbooks, variable substitution, handlers, and execution flow.
+- 📖 [Ansible Getting Started Guide](https://www.redhat.com/en/technologies/management/ansible/what-is-ansible) — Core concepts: control nodes, managed nodes, inventory, tasks, modules, and playbooks.
+- 📖 [Ansible Playbook Guide](https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_intro.html) — Writing declarative YAML playbooks, variable substitution, handlers, and execution flow.
 
 ## Do
 1. **Understand Ansible Architecture**:
