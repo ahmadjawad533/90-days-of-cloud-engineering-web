@@ -11,7 +11,7 @@ Build and test an automated, production-grade Linux backup script that takes sou
 ## Learn
 - 📖 [GNU Bash Reference Manual: Parameter Expansion](https://www.gnu.org/software/bash/manual/bash.html#Shell-Parameter-Expansion) — Safely parsing arguments and handling default values in scripts.
 - 📖 [Advanced Bash-Scripting Guide (TLDP): Complex Commands - tar](https://tldp.org/LDP/abs/html/moreadv.html) — Creating and manipulating `.tar.gz` compressed archives.
-- 📖 [Ubuntu Tutorials: How to automate backups](https://ubuntu.com/server/docs/backups) — Best practices for automated backups, logging, and retention policies in Linux.
+- 📖 [Ubuntu Tutorials: How to automate backups](https://ubuntu.com/server/docs/backups/) — Best practices for automated backups, logging, and retention policies in Linux.
 
 ## Do
 In this milestone project, you will build and test a reusable backup tool:

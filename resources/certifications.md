@@ -111,7 +111,7 @@ Use this roadmap to select the certification that fits your current level:
 
 ## 5. HashiCorp Certified: Terraform Associate (003)
 
-- **Official Link**: 📖 [HashiCorp Certified: Terraform Associate](https://www.hashicorp.com/certifications/terraform-associate)
+- **Official Link**: 📖 [HashiCorp Certified: Terraform Associate](https://developer.hashicorp.com/terraform/tutorials/certification/associate-study)
 - **Who It's For**: Cloud engineers, DevOps engineers, and SREs specializing in Infrastructure as Code (IaC) who want to prove proficiency with open-source Terraform syntax, workflows, state management, and Terraform Cloud.
 - **Approximate Cost**: $70.50 USD (+ tax).
 - **Exam Format**:

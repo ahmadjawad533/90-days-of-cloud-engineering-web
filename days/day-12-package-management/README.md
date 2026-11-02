@@ -10,7 +10,7 @@ Master Linux package managers (`apt` on Debian/Ubuntu, `yum`/`dnf` on RHEL/Amazo
 
 ## Learn
 - 📖 [Ubuntu Tutorials: Package Management with APT](https://ubuntu.com/server/docs/package-management) — Official guide on updating repository indices, upgrading security patches, and inspecting packages.
-- 📖 [Linux Journey: Packages](https://linuxjourney.com/lesson/packages) — Overview of compiled software packaging, repositories, and dependency resolution.
+- 📖 [Linux Journey: Packages](https://labex.io/lesson/packages) — Overview of compiled software packaging, repositories, and dependency resolution.
 - 📖 [GNU Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html) — Shell command execution and script automation basics.
 
 ## Do

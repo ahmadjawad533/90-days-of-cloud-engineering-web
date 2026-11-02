@@ -8,7 +8,7 @@ Master GitHub Actions fundamentals including workflows, triggers, runners, jobs,
 ⏱️ Approximately 75 minutes
 
 ## Learn
-- 📖 [GitHub Actions: Understanding GitHub Actions](https://docs.github.com/en/actions/about-features-and-models-to-build-with-github-actions/understanding-github-actions) — Official documentation explaining workflows, events, jobs, steps, and runners.
+- 📖 [GitHub Actions: Understanding GitHub Actions](https://docs.github.com/en/actions/get-started/understanding-github-actions) — Official documentation explaining workflows, events, jobs, steps, and runners.
 - 📖 [GitHub Actions Quickstart](https://docs.github.com/en/actions/quickstart) — Step-by-step official tutorial creating your first GitHub Actions workflow.
 
 ## Do
