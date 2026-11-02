@@ -69,7 +69,7 @@ Expected Cost: **$0.00 — no cloud resources used.**
 Study planning is free. (Note: Scheduling the SAA exam is $150 USD or $75 if using an AWS 50% discount voucher from a previous exam).
 
 ## Stretch Goal
-Explore vendor-neutral certifications such as the [HashiCorp Terraform Associate](https://www.hashicorp.com/certifications/terraform-associate) or [Linux Foundation CKA](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) and determine if adding an IaC or Kubernetes credential strengthens your target role profile.
+Explore vendor-neutral certifications such as the [HashiCorp Terraform Associate](https://developer.hashicorp.com/terraform/tutorials/certification/associate-study) or [Linux Foundation CKA](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) and determine if adding an IaC or Kubernetes credential strengthens your target role profile.
 
 ## Common Mistakes
 - **Collecting certifications without building projects**: Certifications validate knowledge, but projects prove competence. A resume with 4 certificates and no GitHub portfolio raises red flags. Pair certs with code.

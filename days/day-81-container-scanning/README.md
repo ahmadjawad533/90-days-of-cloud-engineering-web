@@ -141,7 +141,7 @@ rm -rf /tmp/trivy-lab
 | AWS Secrets Manager secret leak checks | Azure Key Vault scanning / GitHub Secret Scanning | GCP Secret Manager / Sensitive Data Protection |
 
 - 📖 [Azure Container Registry Vulnerability Scanning](https://learn.microsoft.com/en-us/azure/container-registry/container-registry-transfer-images)
-- 📖 [Google Artifact Analysis Overview](https://cloud.google.com/artifact-analysis/docs/overview)
+- 📖 [Google Artifact Analysis Overview](https://docs.cloud.google.com/artifact-analysis/docs/overview)
 
 ## Stretch Goal
 Create a `.trivyignore` file to ignore an acceptable low-risk CVE with an approved expiration date and business justification comment, and re-run Trivy to verify how exemptions are managed in enterprise environments.

@@ -9,8 +9,8 @@ Inspect running system processes, analyze resource consumption (CPU, memory, dis
 ⏱️ Approximately 75 minutes
 
 ## Learn
-- 📖 [Linux Journey: Processes](https://linuxjourney.com/lesson/process-basics) — Learn about Process IDs (PIDs), process trees, and parent-child process relationships.
-- 📖 [Linux Journey: Managing Processes](https://linuxjourney.com/lesson/managing-processes) — Signals (`SIGTERM`, `SIGKILL`), `kill`, `pkill`, and background jobs (`&`, `bg`, `fg`).
+- 📖 [Linux Journey: Processes](https://labex.io/lesson/process-basics) — Learn about Process IDs (PIDs), process trees, and parent-child process relationships.
+- 📖 [Linux Journey: Managing Processes](https://labex.io/lesson/managing-processes) — Signals (`SIGTERM`, `SIGKILL`), `kill`, `pkill`, and background jobs (`&`, `bg`, `fg`).
 - 📖 [Ubuntu Tutorials: Process Monitoring Basics](https://ubuntu.com/tutorials/command-line-for-beginners#5-processes-and-resource-usage) — Using `top`, `ps`, and system resource inspection commands.
 
 ## Do
