@@ -53,10 +53,10 @@ Congratulations on reaching Day 90! Today you finalize your Cloud-Native Task Ma
    ```
 
    ## 📖 Documentation
-   - [Architecture Deep Dive](docs/ARCHITECTURE.md)
-   - [CI/CD Workflow Details](docs/CICD.md)
-   - [Security & Threat Model](docs/SECURITY.md)
-   - [Milestones & Progress](docs/MILESTONES.md)
+   - [Architecture Deep Dive](../day-85-capstone-architecture/README.md)
+   - [CI/CD Workflow Details](../day-88-capstone-cicd/README.md)
+   - [Security & Threat Model](../day-89-capstone-monitoring-security/README.md)
+   - [Milestones & Progress](../../PROGRESS_TRACKER.md)
    EOF
    ```
 

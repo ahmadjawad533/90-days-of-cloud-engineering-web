@@ -9,8 +9,8 @@ Understand Linux user identity, primary and secondary groups, elevated privilege
 ⏱️ Approximately 75 minutes
 
 ## Learn
-- 📖 [Linux Journey: Users and Groups](https://linuxjourney.com/lesson/users-and-groups) — How Linux identifies users by UID, groups by GID, and where account data is stored.
-- 📖 [Linux Journey: Sudo Privileges](https://linuxjourney.com/lesson/sudo) — Understanding root privilege delegation without sharing root account passwords.
+- 📖 [Linux Journey: Users and Groups](https://labex.io/lesson/users-and-groups) — How Linux identifies users by UID, groups by GID, and where account data is stored.
+- 📖 [Linux Journey: Sudo Privileges](https://labex.io/lesson/sudo) — Understanding root privilege delegation without sharing root account passwords.
 - 📖 [Ubuntu Tutorials: Managing Users](https://ubuntu.com/tutorials/command-line-for-beginners#4-file-permissions) — Basic user management commands in Ubuntu and Debian-based systems.
 
 ## Do

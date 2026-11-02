@@ -9,8 +9,8 @@ Master the foundational Linux text-processing trifecta (`grep`, `sed`, `awk`) al
 ⏱️ Approximately 90 minutes
 
 ## Learn
-- 📖 [Linux Journey: Text Processing](https://linuxjourney.com/lesson/grep-searching-files) — Practical guide to `grep`, pattern matching, and file inspection.
-- 📖 [Linux Journey: I/O Redirection & Pipes](https://linuxjourney.com/lesson/stdout-standard-out-redirect) — Explaining `stdin` (0), `stdout` (1), `stderr` (2), pipelines, and redirection.
+- 📖 [Linux Journey: Text Processing](https://labex.io/lesson/grep-searching-files) — Practical guide to `grep`, pattern matching, and file inspection.
+- 📖 [Linux Journey: I/O Redirection & Pipes](https://labex.io/lesson/stdout-standard-out-redirect) — Explaining `stdin` (0), `stdout` (1), `stderr` (2), pipelines, and redirection.
 - 📖 [GNU Bash Reference Manual: Redirections](https://www.gnu.org/software/bash/manual/bash.html#Redirections) — Deep dive into stream redirection mechanics.
 
 ## Do

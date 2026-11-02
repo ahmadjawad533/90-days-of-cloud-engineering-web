@@ -2,7 +2,7 @@
 
 **Go from zero to job-ready junior cloud engineer — completely free, at your own pace.**
 
-[![GitHub stars](https://img.shields.io/github/stars/ahmadjawad533/90-days-of-cloud-engineering?style=social)](https://github.com/ahmadjawad533/90-days-of-cloud-engineering/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/ahmadjawad533/90-days-of-cloud-engineering?style=social)](https://github.com/ahmadjawad533/90-days-of-cloud-engineering-web)
 [![GitHub forks](https://img.shields.io/github/forks/ahmadjawad533/90-days-of-cloud-engineering?style=social)](https://github.com/ahmadjawad533/90-days-of-cloud-engineering/network/members)
 [![License: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE)
 [![License: CC BY 4.0](https://img.shields.io/badge/Content-CC%20BY%204.0-lightgrey.svg)](LICENSE-CONTENT.md)

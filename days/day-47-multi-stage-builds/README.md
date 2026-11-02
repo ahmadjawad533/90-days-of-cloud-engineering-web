@@ -123,7 +123,7 @@ rm -f "labs/docker/.dockerignore"
 | IAM Least Privilege for Task Roles | Managed Identities for Azure Container Instances | Workload Identity for Cloud Run / GKE |
 
 - 📖 [Azure Container Registry Build Tasks](https://learn.microsoft.com/en-us/azure/container-registry/container-registry-tasks-overview)
-- 📖 [Google Cloud Build Multi-stage Builds](https://cloud.google.com/build/docs/optimizing-builds/additional-steps-to-speed-up-builds)
+- 📖 [Google Cloud Build Multi-stage Builds](https://docs.cloud.google.com/build/docs/optimizing-builds/additional-steps-to-speed-up-builds)
 
 ## Stretch Goal
 Use Docker BuildKit target caching or distroless base images:

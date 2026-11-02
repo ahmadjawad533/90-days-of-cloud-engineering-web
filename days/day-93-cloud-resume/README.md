@@ -9,7 +9,7 @@ Transform your 90 days of practical hands-on labs and capstone project into a co
 
 ## Learn
 - 📖 [The Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/) — Industry-recognized open-source project framework for showcasing real-world cloud engineering skills.
-- 📖 [Google's "XYZ" Resume Bullet Formula](https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google-or-anywhere-else.html) — Guide on phrasing accomplishments: *Accomplished [X] as measured by [Y], by doing [Z]*.
+- 📖 [STAR Method (Situation, Task, Action, Result)](https://en.wikipedia.org/wiki/Situation,_task,_action,_result) — Guide on phrasing accomplishments: *Accomplished [X] as measured by [Y], by doing [Z]*.
 
 ## Do
 In today's career milestone, you will rewrite your technical resume to showcase practical infrastructure engineering skills, format your capstone project with measurable metrics, optimize your GitHub profile, and structure your skills matrix.

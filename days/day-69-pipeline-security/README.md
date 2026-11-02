@@ -9,7 +9,7 @@ Harden CI/CD pipelines by implementing GitHub Encrypted Secrets, least-privilege
 
 ## Learn
 - 📖 [GitHub Actions: Security hardening for GitHub Actions](https://docs.github.com/en/actions/security-for-github-actions/security-guides/security-hardening-for-github-actions) — Official guide on preventing script injection, securing tokens, and pinning third-party actions.
-- 📖 [Aqua Security Trivy Documentation](https://aquasecurity.github.io/trivy/latest/) — Standard open-source container vulnerability and infrastructure scanner documentation.
+- 📖 [Aqua Security Trivy Documentation](https://trivy.dev/docs/latest/guide/) — Standard open-source container vulnerability and infrastructure scanner documentation.
 
 ## Do
 1. **Understand CI/CD Attack Vectors and Defense Mechanisms**:

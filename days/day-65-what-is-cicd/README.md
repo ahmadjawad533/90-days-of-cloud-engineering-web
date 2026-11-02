@@ -8,7 +8,7 @@ Understand the core principles, business benefits, and terminology of Continuous
 ⏱️ Approximately 60 minutes
 
 ## Learn
-- 📖 [GitHub Actions Documentation: Understanding GitHub Actions](https://docs.github.com/en/actions/about-continuous-integration/about-continuous-integration) — Official guide on Continuous Integration concepts and automation workflows.
+- 📖 [GitHub Actions Documentation: Understanding GitHub Actions](https://docs.github.com/en/actions/get-started/continuous-integration) — Official guide on Continuous Integration concepts and automation workflows.
 - 📖 [AWS DevOps Resource Guide: What is CI/CD?](https://aws.amazon.com/devops/what-is-devops/) — Cloud-native overview of automated delivery pipelines, release patterns, and DevOps cultural practices.
 
 ## Do

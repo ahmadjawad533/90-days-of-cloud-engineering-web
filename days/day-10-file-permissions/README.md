@@ -9,8 +9,8 @@ Understand Linux file mode bits (read, write, execute), decode numeric and symbo
 ⏱️ Approximately 75 minutes
 
 ## Learn
-- 📖 [Linux Journey: File Permissions](https://linuxjourney.com/lesson/file-permissions) — Detailed breakdown of owner, group, and other permission sets.
-- 📖 [Linux Journey: Modifying Permissions](https://linuxjourney.com/lesson/chmod) — Hands-on explanation of symbolic (`u+x`, `g-w`) and octal (`755`, `644`, `600`) permission modes.
+- 📖 [Linux Journey: File Permissions](https://labex.io/lesson/file-permissions) — Detailed breakdown of owner, group, and other permission sets.
+- 📖 [Linux Journey: Modifying Permissions](https://labex.io/lesson/chmod) — Hands-on explanation of symbolic (`u+x`, `g-w`) and octal (`755`, `644`, `600`) permission modes.
 - 📖 [Ubuntu Tutorials: Users and Permissions](https://ubuntu.com/tutorials/command-line-for-beginners#4-file-permissions) — Practical examples managing permissions in modern Ubuntu environments.
 
 ## Do
