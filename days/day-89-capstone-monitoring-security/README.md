@@ -9,7 +9,7 @@ Implement full observability, CloudWatch alarms, structured logging, and securit
 
 ## Learn
 - 📖 [Amazon CloudWatch Alarms Guide](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEmail.html) — AWS documentation on creating metric alarms and SNS notification topics.
-- 📖 [AWS Security Best Practices for Containers](https://aws.amazon.com/blogs/containers/security-best-practices-for-amazon-ecs/) — Guide on task role isolation, read-only root filesystems, and VPC endpoints.
+- 📖 [AWS ECS Security Best Practices](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/security.html) — Guide on task role isolation, read-only root filesystems, and VPC endpoints.
 
 ## Do
 In today's milestone, you will add CloudWatch alarms, configure an SNS topic for high-severity alerts, implement structured JSON logging in the application, and audit IAM security boundaries for ECS tasks.

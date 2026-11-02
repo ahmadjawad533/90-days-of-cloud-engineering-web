@@ -9,7 +9,7 @@ Master IPv4 structure, Classless Inter-Domain Routing (CIDR) notation, subnet ma
 ⏱️ Approximately 90 minutes
 
 ## Learn
-- 📖 [What is a Subnet? - Cloudflare](https://www.cloudflare.com/learning/network-layer/what-is-a-subnet/) — Introduction to IP addressing, network vs. host bits, subnet masks, and network segmentation.
+- 📖 [Subnet your VPC - AWS](https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html) — Introduction to IP addressing, network vs. host bits, subnet masks, and network segmentation.
 - 📖 [VPC CIDR Blocks - AWS Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-cidr-blocks.html) — Practical guide to IPv4 and IPv6 CIDR block allocation and sizing in cloud virtual private clouds.
 
 ## Do
