@@ -9,7 +9,7 @@ Prepare for cloud engineering technical interviews by mastering common architect
 
 ## Learn
 - 📖 [AWS Interview Questions & Architecture Patterns](https://aws.amazon.com/architecture/) — Official architecture whitepapers and patterns commonly evaluated in technical interviews.
-- 📖 [The STAR Method for Behavioral Interviews](https://en.wikipedia.org/wiki/Situation,_task,_action_and_result) — Structured behavioral interviewing technique (Situation, Task, Action, Result).
+- 📖 [The STAR Method for Behavioral Interviews](https://en.wikipedia.org/wiki/Situation,_task,_action,_result) — Structured behavioral interviewing technique (Situation, Task, Action, Result).
 
 ## Do
 In today's career prep milestone, you will practice answering the 10 most common junior cloud engineering technical questions, prepare your behavioral STAR stories, and practice a systematic 5-step troubleshooting methodology.

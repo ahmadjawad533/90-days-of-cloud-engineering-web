@@ -200,8 +200,8 @@ echo "Three-tier VPC architecture destroyed successfully."
 | Database Tier | Isolated Private Subnet + RDS Multi-AZ | Database Subnet + Azure Database with VNet Injection | Private Service Connect / Private DB Subnet + Cloud SQL |
 | Tier Firewall Isolation | Chained Security Groups | Network Security Groups (NSGs) with ASGs | VPC Firewall Rules with Service Account tags |
 
-- 📖 [Azure Three-Tier Architecture Guide](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/n-tier/n-tier-iaas)
-- 📖 [Google Cloud Three-Tier Architecture](https://cloud.google.com/architecture/three-tier-web-app)
+- 📖 [Azure Three-Tier Architecture Guide](https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier)
+- 📖 [Google Cloud Three-Tier Architecture](https://docs.cloud.google.com/architecture/three-tier-web-app)
 
 ## Stretch Goal
 Automate the entire three-tier architecture deployment: Convert this AWS CLI script into an infrastructure-as-code template using AWS CloudFormation or HashiCorp Terraform. Parameterize the VPC CIDR block and Availability Zones so the entire topology can be launched and destroyed with a single command.

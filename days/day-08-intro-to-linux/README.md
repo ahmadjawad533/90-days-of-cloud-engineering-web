@@ -9,7 +9,7 @@ Explore the Linux operating system, understand why Linux powers modern cloud inf
 ⏱️ Approximately 60 minutes
 
 ## Learn
-- 📖 [Linux Journey: Getting Started](https://linuxjourney.com/lesson/what-is-linux) — A beginner-friendly introduction to what Linux is, distributions, and terminal fundamentals.
+- 📖 [Linux Journey: Getting Started](https://labex.io/lesson/what-is-linux) — A beginner-friendly introduction to what Linux is, distributions, and terminal fundamentals.
 - 📖 [Ubuntu Tutorials: The Linux Command Line for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners) — Step-by-step primer on opening and working with an interactive Linux terminal.
 - 📖 [GNU Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html) — The official manual explaining shell architecture and command execution.
 
